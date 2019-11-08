@@ -31,7 +31,7 @@ html {
 /* First image (Logo. Full height) */
 
 .bgimg-1 {
-    background-image: url('../img/fordfocusst1.jpg');
+    background-image: url('../img/Data-Visualisation.png');
     min-height: 100%;
 }
 
@@ -39,7 +39,7 @@ html {
 /* Second image (Portfolio) */
 
 .bgimg-2 {
-    background-image: url("../img/fordfocusst2.jpg");
+    background-image: url("../img/DataBG.jpg");
     min-height: 400px;
 }
 
