@@ -70,3 +70,15 @@ html {
         min-height: 400px;
     }
 }
+
+#APIResult, #SelectPKMNOutput {
+    text-align: center;
+}
+
+#SelectPKMNOutput {
+    background-color: whitesmoke;
+    min-height: 33em;
+    max-width: 25em;
+    display: block;
+    margin: 0 auto 0 auto;
+}
