@@ -71,14 +71,30 @@ html {
     }
 }
 
-#APIResult, #SelectPKMNOutput {
+#APIResult, #SelectPKMNImage {
     text-align: center;
 }
-
-#SelectPKMNOutput {
+#APIResult {
+    min-height: 2em;
+    margin-bottom: 1em;
+}
+#SelectPKMNImage, #SelectPKMNData {
     background-color: whitesmoke;
-    min-height: 33em;
-    max-width: 25em;
+    min-height: 36em;
     display: block;
     margin: 0 auto 0 auto;
+}
+#SelectPKMNData {
+    background-color: unset;
+}
+#SelectPKMNData td {
+    border: 1px solid black;
+    text-align: center;
+}
+#SelectPKMNStatsTable {
+    text-align: left;
+}
+#SelectPKMNStatsTable .tdr{
+    /* border: unset; */
+    width: 35%;
 }

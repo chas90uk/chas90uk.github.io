@@ -52,8 +52,43 @@
             
             <br><strong>Try it out to see!</strong></em>
         </p>
-        <p id="APIResult"></p>
-        <div id="SelectPKMNOutput"></div>
+        <div id="APIResult"></div>
+        <div class="w3-row">
+            <div class="w3-col m6 w3-center w3-padding-large" id="SelectPKMNImage"></div>
+
+            <!-- Hide this text on small devices -->
+            <div class="w3-col m6  w3-padding-large" id="SelectPKMNData">
+                <table style="width:100%; max-height:440px;">
+                    <tr >
+                        <td style="width: 30%;">Type</td>
+                        <td id="PKMNType">GRASS/POISON</td>
+                    </tr>
+                    <tr >
+                        <td>Stats</td>
+                        <td id="SelectPKMNStats">
+                            <table id="SelectPKMNStatsTable" style="width: 100%;">
+                                <tr><td class="tdl">HP</td>             <td id="PKMNStats_HP" class="tdr">45</td></tr>
+                                <tr><td class="tdl">Attack</td>         <td id="PKMNStats_ATK" class="tdr">49</td></tr>
+                                <tr><td class="tdl">Defense</td>        <td id="PKMNStats_DEF" class="tdr">49</td></tr>
+                                <tr><td class="tdl">Sp. Attack</td>     <td id="PKMNStats_SpATK" class="tdr">65</td></tr>
+                                <tr><td class="tdl">Sp. Defense</td>    <td id="PKMNStats_SpDEF" class="tdr">65</td></tr>
+                                <tr><td class="tdl">Speed</td>          <td id="PKMNStats_SPD" class="tdr">45</td></tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr >
+                        <td>Height</td>
+                        <td id="PKMNHeight">7</td>
+                    </tr>
+                    <tr >
+                        <td>Weight</td>
+                        <td id="PKMNWeight">69</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        
         <div class="w3-row">
         </div>
 
