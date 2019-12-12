@@ -71,6 +71,10 @@ html {
     }
 }
 
+#apiCallCount{
+    visibility: hidden;
+}
+
 /*Google Maps*/
 .mapouter {
     position: relative;
