@@ -1,0 +1,717 @@
+[
+    {
+      "itemID": 1,
+      "itemType": "COVID-19",
+      "itemValue": "COVID-19 Vaccination Pass"
+    },
+    {
+      "itemID": 2,
+      "itemType": "COVID-19",
+      "itemValue": "Passenger Attestation"
+    },
+    {
+      "itemID": 3,
+      "itemType": "COVID-19",
+      "itemValue": "Passenger Locator Form"
+    },
+    {
+      "itemID": 4,
+      "itemType": "COVID-19",
+      "itemValue": "COVID-19 Flight Test Results"
+    },
+    {
+      "itemID": 5,
+      "itemType": "Documents",
+      "itemValue": "Passport"
+    },
+    {
+      "itemID": 6,
+      "itemType": "Documents",
+      "itemValue": "Visas"
+    },
+    {
+      "itemID": 7,
+      "itemType": "Documents",
+      "itemValue": "Vaccination Details"
+    },
+    {
+      "itemID": 8,
+      "itemType": "Documents",
+      "itemValue": "Travel Insurance"
+    },
+    {
+      "itemID": 9,
+      "itemType": "Documents",
+      "itemValue": "Drivers Licence"
+    },
+    {
+      "itemID": 10,
+      "itemType": "Documents",
+      "itemValue": "Car Hire Details"
+    },
+    {
+      "itemID": 11,
+      "itemType": "Documents",
+      "itemValue": "Contact Numbers"
+    },
+    {
+      "itemID": 12,
+      "itemType": "Documents",
+      "itemValue": "Flight Details"
+    },
+    {
+      "itemID": 13,
+      "itemType": "Documents",
+      "itemValue": "Hotel Details"
+    },
+    {
+      "itemID": 14,
+      "itemType": "Documents",
+      "itemValue": "Phrases For Your Destination"
+    },
+    {
+      "itemID": 15,
+      "itemType": "Documents",
+      "itemValue": "Medication Paperwork"
+    },
+    {
+      "itemID": 16,
+      "itemType": "Documents",
+      "itemValue": "Paperwork For A Child Travelling With You Who Does Not Share The Same Family Name"
+    },
+    {
+      "itemID": 17,
+      "itemType": "Documents",
+      "itemValue": "Loyalty Cards"
+    },
+    {
+      "itemID": 18,
+      "itemType": "Documents",
+      "itemValue": "Travel Money"
+    },
+    {
+      "itemID": 19,
+      "itemType": "Documents",
+      "itemValue": "Attraction Vouchers"
+    },
+    {
+      "itemID": 20,
+      "itemType": "Documents",
+      "itemValue": "Frequent Flyer Numbers"
+    },
+    {
+      "itemID": 21,
+      "itemType": "Documents",
+      "itemValue": "Airport Transfer Details"
+    },
+    {
+      "itemID": 22,
+      "itemType": "Documents",
+      "itemValue": "Airport Parking Details"
+    },
+    {
+      "itemID": 23,
+      "itemType": "Documents",
+      "itemValue": "Atol Certificate"
+    },
+    {
+      "itemID": 24,
+      "itemType": "Gadgets",
+      "itemValue": "Travel Adapter"
+    },
+    {
+      "itemID": 25,
+      "itemType": "Gadgets",
+      "itemValue": "Multi Plug Port"
+    },
+    {
+      "itemID": 26,
+      "itemType": "Gadgets",
+      "itemValue": "Headphones/Earphones"
+    },
+    {
+      "itemID": 27,
+      "itemType": "Gadgets",
+      "itemValue": "Laptop/Tablet"
+    },
+    {
+      "itemID": 28,
+      "itemType": "Gadgets",
+      "itemValue": "Charging Cables"
+    },
+    {
+      "itemID": 29,
+      "itemType": "Gadgets",
+      "itemValue": "Camera"
+    },
+    {
+      "itemID": 30,
+      "itemType": "Gadgets",
+      "itemValue": "Games Consoles"
+    },
+    {
+      "itemID": 31,
+      "itemType": "Gadgets",
+      "itemValue": "Torch/Headlamp"
+    },
+    {
+      "itemID": 32,
+      "itemType": "Gadgets",
+      "itemValue": "Power Bank"
+    },
+    {
+      "itemID": 33,
+      "itemType": "Gadgets",
+      "itemValue": "Batteries"
+    },
+    {
+      "itemID": 34,
+      "itemType": "Gadgets",
+      "itemValue": "Hairdryer"
+    },
+    {
+      "itemID": 35,
+      "itemType": "Gadgets",
+      "itemValue": "Hair Straighteners"
+    },
+    {
+      "itemID": 36,
+      "itemType": "Hand Luggage",
+      "itemValue": "Mobile Phone & Charger"
+    },
+    {
+      "itemID": 37,
+      "itemType": "Hand Luggage",
+      "itemValue": "Keys"
+    },
+    {
+      "itemID": 38,
+      "itemType": "Hand Luggage",
+      "itemValue": "Wallet/Purse"
+    },
+    {
+      "itemID": 39,
+      "itemType": "Hand Luggage",
+      "itemValue": "Local Currency"
+    },
+    {
+      "itemID": 40,
+      "itemType": "Hand Luggage",
+      "itemValue": "Glasses/Contact Lenses"
+    },
+    {
+      "itemID": 41,
+      "itemType": "Hand Luggage",
+      "itemValue": "Hearing Aid"
+    },
+    {
+      "itemID": 42,
+      "itemType": "Hand Luggage",
+      "itemValue": "Hand Sanitiser"
+    },
+    {
+      "itemID": 43,
+      "itemType": "Hand Luggage",
+      "itemValue": "Books/Magazines"
+    },
+    {
+      "itemID": 44,
+      "itemType": "Hand Luggage",
+      "itemValue": "Pen"
+    },
+    {
+      "itemID": 45,
+      "itemType": "Hand Luggage",
+      "itemValue": "Snacks"
+    },
+    {
+      "itemID": 46,
+      "itemType": "Hand Luggage",
+      "itemValue": "Water"
+    },
+    {
+      "itemID": 47,
+      "itemType": "Hand Luggage",
+      "itemValue": "Tissues"
+    },
+    {
+      "itemID": 48,
+      "itemType": "Hand Luggage",
+      "itemValue": "Travel Pillow"
+    },
+    {
+      "itemID": 49,
+      "itemType": "Hand Luggage",
+      "itemValue": "Eye Mask"
+    },
+    {
+      "itemID": 50,
+      "itemType": "Hand Luggage",
+      "itemValue": "Ear Plugs"
+    },
+    {
+      "itemID": 51,
+      "itemType": "Hand Luggage",
+      "itemValue": "Playing Cards"
+    },
+    {
+      "itemID": 52,
+      "itemType": "Children",
+      "itemValue": "Toys"
+    },
+    {
+      "itemID": 53,
+      "itemType": "Children",
+      "itemValue": "Games"
+    },
+    {
+      "itemID": 54,
+      "itemType": "Children",
+      "itemValue": "Books"
+    },
+    {
+      "itemID": 55,
+      "itemType": "Children",
+      "itemValue": "Nappies"
+    },
+    {
+      "itemID": 56,
+      "itemType": "Children",
+      "itemValue": "Change Of Clothes"
+    },
+    {
+      "itemID": 57,
+      "itemType": "Children",
+      "itemValue": "Dummy/Pacifier"
+    },
+    {
+      "itemID": 58,
+      "itemType": "Children",
+      "itemValue": "Baby Food"
+    },
+    {
+      "itemID": 59,
+      "itemType": "Medical Supplies",
+      "itemValue": "Prescription Medication "
+    },
+    {
+      "itemID": 60,
+      "itemType": "Medical Supplies",
+      "itemValue": "Paracetamol"
+    },
+    {
+      "itemID": 61,
+      "itemType": "Medical Supplies",
+      "itemValue": "Travel First Aid Kit "
+    },
+    {
+      "itemID": 62,
+      "itemType": "Medical Supplies",
+      "itemValue": "Sunscreen"
+    },
+    {
+      "itemID": 63,
+      "itemType": "Medical Supplies",
+      "itemValue": "Bug Spray"
+    },
+    {
+      "itemID": 64,
+      "itemType": "Medical Supplies",
+      "itemValue": "All Lenses"
+    },
+    {
+      "itemID": 65,
+      "itemType": "Medical Supplies",
+      "itemValue": "Travel Sickness Pills"
+    },
+    {
+      "itemID": 66,
+      "itemType": "Toiletries",
+      "itemValue": "Toothbrush"
+    },
+    {
+      "itemID": 67,
+      "itemType": "Toiletries",
+      "itemValue": "Hairbrush"
+    },
+    {
+      "itemID": 68,
+      "itemType": "Toiletries",
+      "itemValue": "Moisturiser"
+    },
+    {
+      "itemID": 69,
+      "itemType": "Toiletries",
+      "itemValue": "Sunscreen"
+    },
+    {
+      "itemID": 70,
+      "itemType": "Toiletries",
+      "itemValue": "Deodorant"
+    },
+    {
+      "itemID": 71,
+      "itemType": "Toiletries",
+      "itemValue": "Mouthwash"
+    },
+    {
+      "itemID": 72,
+      "itemType": "Toiletries",
+      "itemValue": "Shower Gel"
+    },
+    {
+      "itemID": 73,
+      "itemType": "Toiletries",
+      "itemValue": "Tweezers"
+    },
+    {
+      "itemID": 74,
+      "itemType": "Toiletries",
+      "itemValue": "Ear Buds/Plugs"
+    },
+    {
+      "itemID": 75,
+      "itemType": "Toiletries",
+      "itemValue": "Make Up/Remover"
+    },
+    {
+      "itemID": 76,
+      "itemType": "Toiletries",
+      "itemValue": "Tampons/Sanitary Pads"
+    },
+    {
+      "itemID": 77,
+      "itemType": "Toiletries",
+      "itemValue": "Razor"
+    },
+    {
+      "itemID": 78,
+      "itemType": "Toiletries",
+      "itemValue": "Eye Drops"
+    },
+    {
+      "itemID": 79,
+      "itemType": "Toiletries",
+      "itemValue": "Wet Wipes"
+    },
+    {
+      "itemID": 80,
+      "itemType": "Toiletries",
+      "itemValue": "Toothpaste"
+    },
+    {
+      "itemID": 81,
+      "itemType": "Toiletries",
+      "itemValue": "Hair Products"
+    },
+    {
+      "itemID": 82,
+      "itemType": "Toiletries",
+      "itemValue": "Nail Scissors/Clippers"
+    },
+    {
+      "itemID": 83,
+      "itemType": "Toiletries",
+      "itemValue": "Shampoo"
+    },
+    {
+      "itemID": 84,
+      "itemType": "Toiletries",
+      "itemValue": "Conditioner"
+    },
+    {
+      "itemID": 85,
+      "itemType": "Toiletries",
+      "itemValue": "Dental Floss"
+    },
+    {
+      "itemID": 86,
+      "itemType": "Toiletries",
+      "itemValue": "Shaving Cream"
+    },
+    {
+      "itemID": 87,
+      "itemType": "Toiletries",
+      "itemValue": "Hand Cream"
+    },
+    {
+      "itemID": 88,
+      "itemType": "Toiletries",
+      "itemValue": "Contraception"
+    },
+    {
+      "itemID": 89,
+      "itemType": "Toiletries",
+      "itemValue": "Bug Repellent"
+    },
+    {
+      "itemID": 90,
+      "itemType": "Toiletries",
+      "itemValue": "Aftersun"
+    },
+    {
+      "itemID": 91,
+      "itemType": "Toiletries",
+      "itemValue": "Lip Balm"
+    },
+    {
+      "itemID": 92,
+      "itemType": "Toiletries",
+      "itemValue": "Sealable Bags/Containers"
+    },
+    {
+      "itemID": 93,
+      "itemType": "Toiletries",
+      "itemValue": "Bag For Dirty Laundry"
+    },
+    {
+      "itemID": 94,
+      "itemType": "Beach",
+      "itemValue": "Swimwear X 2"
+    },
+    {
+      "itemID": 95,
+      "itemType": "Beach",
+      "itemValue": "Lightweight Cover Up"
+    },
+    {
+      "itemID": 96,
+      "itemType": "Beach",
+      "itemValue": "Flip Flops Or Sandals"
+    },
+    {
+      "itemID": 97,
+      "itemType": "Beach",
+      "itemValue": "Lightweight Bag"
+    },
+    {
+      "itemID": 98,
+      "itemType": "Beach",
+      "itemValue": "Sunhat"
+    },
+    {
+      "itemID": 99,
+      "itemType": "Beach",
+      "itemValue": "Plastic Bags "
+    },
+    {
+      "itemID": 100,
+      "itemType": "Sports",
+      "itemValue": "Footwear - Specialist Shoes And Boots Or Socks"
+    },
+    {
+      "itemID": 101,
+      "itemType": "Sports",
+      "itemValue": "Sports Bag"
+    },
+    {
+      "itemID": 102,
+      "itemType": "Sports",
+      "itemValue": "Sports Bra"
+    },
+    {
+      "itemID": 103,
+      "itemType": "Sports",
+      "itemValue": "Layered Sports Clothes"
+    },
+    {
+      "itemID": 104,
+      "itemType": "Business",
+      "itemValue": "Business Cards"
+    },
+    {
+      "itemID": 105,
+      "itemType": "Business",
+      "itemValue": "Pass Or Id"
+    },
+    {
+      "itemID": 106,
+      "itemType": "Business",
+      "itemValue": "Workout Clothes - Inc Swimwear And Goggles"
+    },
+    {
+      "itemID": 107,
+      "itemType": "Business",
+      "itemValue": "Lint Roller"
+    },
+    {
+      "itemID": 108,
+      "itemType": "Business",
+      "itemValue": "Suit Holder"
+    },
+    {
+      "itemID": 109,
+      "itemType": "Off The Beaten Path",
+      "itemValue": "Toilet Paper"
+    },
+    {
+      "itemID": 110,
+      "itemType": "Off The Beaten Path",
+      "itemValue": "Laundry Detergent"
+    },
+    {
+      "itemID": 111,
+      "itemType": "Off The Beaten Path",
+      "itemValue": "Advanced First Aid Kit"
+    },
+    {
+      "itemID": 112,
+      "itemType": "Off The Beaten Path",
+      "itemValue": "Water Bottle"
+    },
+    {
+      "itemID": 113,
+      "itemType": "Off The Beaten Path",
+      "itemValue": "Wet Wipes And Santizer"
+    },
+    {
+      "itemID": 114,
+      "itemType": "Off The Beaten Path",
+      "itemValue": "Travel Alarm"
+    },
+    {
+      "itemID": 115,
+      "itemType": "Clothes",
+      "itemValue": "Underwear - One Per Day"
+    },
+    {
+      "itemID": 116,
+      "itemType": "Clothes",
+      "itemValue": "Socks - One Pair Per Day"
+    },
+    {
+      "itemID": 117,
+      "itemType": "Clothes",
+      "itemValue": "Tops/T Shirts/Shirts/Dress - One Per Day"
+    },
+    {
+      "itemID": 118,
+      "itemType": "Clothes",
+      "itemValue": "Trousers - 2-3 Per 10 Days. One Pair If Hot Weather Destination."
+    },
+    {
+      "itemID": 119,
+      "itemType": "Clothes",
+      "itemValue": "Coat"
+    },
+    {
+      "itemID": 120,
+      "itemType": "Clothes",
+      "itemValue": "Shorts And Skirts - 1 Per 10 Days. 2-3 If Hot Weather Destination."
+    },
+    {
+      "itemID": 121,
+      "itemType": "Clothes",
+      "itemValue": "Pullover/Cardigan/Jumper/Jersey - One Per Five Days"
+    },
+    {
+      "itemID": 122,
+      "itemType": "Clothes",
+      "itemValue": "Shoes - One Snazzy Pair, One Casual Pair."
+    },
+    {
+      "itemID": 123,
+      "itemType": "Clothes",
+      "itemValue": "Sleepwear"
+    },
+    {
+      "itemID": 124,
+      "itemType": "Optional Clothes",
+      "itemValue": "Blazer/Jacket/ Suit"
+    },
+    {
+      "itemID": 125,
+      "itemType": "Optional Clothes",
+      "itemValue": "Special Sports Clothes Or Beach Wear"
+    },
+    {
+      "itemID": 126,
+      "itemType": "Optional Clothes",
+      "itemValue": "Ties"
+    },
+    {
+      "itemID": 127,
+      "itemType": "Optional Clothes",
+      "itemValue": "Jewellery"
+    },
+    {
+      "itemID": 128,
+      "itemType": "Optional Clothes",
+      "itemValue": "Hats"
+    },
+    {
+      "itemID": 129,
+      "itemType": "Optional Clothes",
+      "itemValue": "Hair Accessories"
+    },
+    {
+      "itemID": 130,
+      "itemType": "Optional Clothes",
+      "itemValue": "Scarf"
+    },
+    {
+      "itemID": 131,
+      "itemType": "Travel Hacks",
+      "itemValue": "Swiss Army Knife"
+    },
+    {
+      "itemID": 132,
+      "itemType": "Travel Hacks",
+      "itemValue": "Head Torch"
+    },
+    {
+      "itemID": 133,
+      "itemType": "Travel Hacks",
+      "itemValue": "Food"
+    },
+    {
+      "itemID": 134,
+      "itemType": "Travel Hacks",
+      "itemValue": "Tissues And Toilet Paper"
+    },
+    {
+      "itemID": 135,
+      "itemType": "Travel Hacks",
+      "itemValue": "Packing Cubes"
+    },
+    {
+      "itemID": 136,
+      "itemType": "Travel Hacks",
+      "itemValue": "Travel Pillow"
+    },
+    {
+      "itemID": 137,
+      "itemType": "Travel Hacks",
+      "itemValue": "Book Or Magazine"
+    },
+    {
+      "itemID": 138,
+      "itemType": "Travel Hacks",
+      "itemValue": "Safari Vest"
+    },
+    {
+      "itemID": 139,
+      "itemType": "Travel Hacks",
+      "itemValue": "Eye Mask And Ear Plugs"
+    },
+    {
+      "itemID": 140,
+      "itemType": "Travel Hacks",
+      "itemValue": "Scarf"
+    },
+    {
+      "itemID": 141,
+      "itemType": "Travel Hacks",
+      "itemValue": "A Spare Bag "
+    },
+    {
+      "itemID": 142,
+      "itemType": "Travel Hacks",
+      "itemValue": "Glasses Case"
+    },
+    {
+      "itemID": 143,
+      "itemType": "Travel Hacks",
+      "itemValue": "Travel Umbrella"
+    }
+  ]
