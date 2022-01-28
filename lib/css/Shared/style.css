@@ -32,7 +32,7 @@ html {
 
 .bgimg-1 {
     background-image: url('../../img/index/BG_01.png');
-    min-height: 100%;
+    min-height: 400px;
 }
 
 
