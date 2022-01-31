@@ -2,7 +2,7 @@
     {
       "itemID": 1,
       "itemCategory": "COVID-19",
-      "itemValue": "COVID-19 Vaccination Pass",
+      "itemValue": "Vaccination Pass",
       "isChecked": false
 },
     {
@@ -20,7 +20,7 @@
     {
       "itemID": 4,
       "itemCategory": "COVID-19",
-      "itemValue": "COVID-19 Flight Test Results",
+      "itemValue": "Flight Test Results",
       "isChecked": false
 },
     {
