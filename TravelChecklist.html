@@ -28,7 +28,9 @@
         <!-- Container (Travel Checklist Section) -->
         <div class="w3-content w3-container w3-center w3-padding-64" id="TravelChecklist">
             <!-- NEW -->
-            <P class="w3-left-align" style="padding-left: 24px;"><b>Travel Checklist</b></P>
+            <div class="w3-padding">
+                <p class="w3-left-align" style="padding-left: 24px;"><b>Travel Checklist</b><span><button class="w3-btn w3-red w3-right" onclick="resetChecklist()">Reset Checklist</button></span></p>
+            </div>
             <div class="w3-container" id="checklistItemList"><!-- Dynamic - See TravelChecklist/TravelChecklist.js --></div>
         </div>
 
