@@ -1,860 +1,896 @@
 [
-    {
-      "itemID": 1,
-      "itemCategory": "COVID-19",
-      "itemValue": "Vaccination Pass",
-      "isChecked": false
-},
-    {
-      "itemID": 2,
-      "itemCategory": "COVID-19",
-      "itemValue": "Passenger Attestation",
-      "isChecked": false
-},
-    {
-      "itemID": 3,
-      "itemCategory": "COVID-19",
-      "itemValue": "Passenger Locator Form",
-      "isChecked": false
-},
-    {
-      "itemID": 4,
-      "itemCategory": "COVID-19",
-      "itemValue": "Flight Test Results",
-      "isChecked": false
-},
-    {
-      "itemID": 5,
-      "itemCategory": "Documents",
-      "itemValue": "Passport",
-      "isChecked": false
-},
-    {
-      "itemID": 6,
-      "itemCategory": "Documents",
-      "itemValue": "Visas",
-      "isChecked": false
-},
-    {
-      "itemID": 7,
-      "itemCategory": "Documents",
-      "itemValue": "Vaccination Details",
-      "isChecked": false
-},
-    {
-      "itemID": 8,
-      "itemCategory": "Documents",
-      "itemValue": "Travel Insurance",
-      "isChecked": false
-},
-    {
-      "itemID": 9,
-      "itemCategory": "Documents",
-      "itemValue": "Drivers Licence",
-      "isChecked": false
-},
-    {
-      "itemID": 10,
-      "itemCategory": "Documents",
-      "itemValue": "Car Hire Details",
-      "isChecked": false
-},
-    {
-      "itemID": 11,
-      "itemCategory": "Documents",
-      "itemValue": "Contact Numbers",
-      "isChecked": false
-},
-    {
-      "itemID": 12,
-      "itemCategory": "Documents",
-      "itemValue": "Flight Details",
-      "isChecked": false
-},
-    {
-      "itemID": 13,
-      "itemCategory": "Documents",
-      "itemValue": "Hotel Details",
-      "isChecked": false
-},
-    {
-      "itemID": 14,
-      "itemCategory": "Documents",
-      "itemValue": "Phrases For Your Destination",
-      "isChecked": false
-},
-    {
-      "itemID": 15,
-      "itemCategory": "Documents",
-      "itemValue": "Medication Paperwork",
-      "isChecked": false
-},
-    {
-      "itemID": 16,
-      "itemCategory": "Documents",
-      "itemValue": "Paperwork For A Child Travelling With You Who Does Not Share The Same Family Name",
-      "isChecked": false
-},
-    {
-      "itemID": 17,
-      "itemCategory": "Documents",
-      "itemValue": "Loyalty Cards",
-      "isChecked": false
-},
-    {
-      "itemID": 18,
-      "itemCategory": "Documents",
-      "itemValue": "Travel Money",
-      "isChecked": false
-},
-    {
-      "itemID": 19,
-      "itemCategory": "Documents",
-      "itemValue": "Attraction Vouchers",
-      "isChecked": false
-},
-    {
-      "itemID": 20,
-      "itemCategory": "Documents",
-      "itemValue": "Frequent Flyer Numbers",
-      "isChecked": false
-},
-    {
-      "itemID": 21,
-      "itemCategory": "Documents",
-      "itemValue": "Airport Transfer Details",
-      "isChecked": false
-},
-    {
-      "itemID": 22,
-      "itemCategory": "Documents",
-      "itemValue": "Airport Parking Details",
-      "isChecked": false
-},
-    {
-      "itemID": 23,
-      "itemCategory": "Documents",
-      "itemValue": "Atol Certificate",
-      "isChecked": false
-},
-    {
-      "itemID": 24,
-      "itemCategory": "Gadgets",
-      "itemValue": "Travel Adapter",
-      "isChecked": false
-},
-    {
-      "itemID": 25,
-      "itemCategory": "Gadgets",
-      "itemValue": "Multi Plug Port",
-      "isChecked": false
-},
-    {
-      "itemID": 26,
-      "itemCategory": "Gadgets",
-      "itemValue": "Headphones/Earphones",
-      "isChecked": false
-},
-    {
-      "itemID": 27,
-      "itemCategory": "Gadgets",
-      "itemValue": "Laptop/Tablet",
-      "isChecked": false
-},
-    {
-      "itemID": 28,
-      "itemCategory": "Gadgets",
-      "itemValue": "Charging Cables",
-      "isChecked": false
-},
-    {
-      "itemID": 29,
-      "itemCategory": "Gadgets",
-      "itemValue": "Camera",
-      "isChecked": false
-},
-    {
-      "itemID": 30,
-      "itemCategory": "Gadgets",
-      "itemValue": "Games Consoles",
-      "isChecked": false
-},
-    {
-      "itemID": 31,
-      "itemCategory": "Gadgets",
-      "itemValue": "Torch/Headlamp",
-      "isChecked": false
-},
-    {
-      "itemID": 32,
-      "itemCategory": "Gadgets",
-      "itemValue": "Power Bank",
-      "isChecked": false
-},
-    {
-      "itemID": 33,
-      "itemCategory": "Gadgets",
-      "itemValue": "Batteries",
-      "isChecked": false
-},
-    {
-      "itemID": 34,
-      "itemCategory": "Gadgets",
-      "itemValue": "Hairdryer",
-      "isChecked": false
-},
-    {
-      "itemID": 35,
-      "itemCategory": "Gadgets",
-      "itemValue": "Hair Straighteners",
-      "isChecked": false
-},
-    {
-      "itemID": 36,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Mobile Phone & Charger",
-      "isChecked": false
-},
-    {
-      "itemID": 37,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Keys",
-      "isChecked": false
-},
-    {
-      "itemID": 38,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Wallet/Purse",
-      "isChecked": false
-},
-    {
-      "itemID": 39,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Local Currency",
-      "isChecked": false
-},
-    {
-      "itemID": 40,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Glasses/Contact Lenses",
-      "isChecked": false
-},
-    {
-      "itemID": 41,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Hearing Aid",
-      "isChecked": false
-},
-    {
-      "itemID": 42,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Hand Sanitiser",
-      "isChecked": false
-},
-    {
-      "itemID": 43,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Books/Magazines",
-      "isChecked": false
-},
-    {
-      "itemID": 44,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Pen",
-      "isChecked": false
-},
-    {
-      "itemID": 45,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Snacks",
-      "isChecked": false
-},
-    {
-      "itemID": 46,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Water",
-      "isChecked": false
-},
-    {
-      "itemID": 47,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Tissues",
-      "isChecked": false
-},
-    {
-      "itemID": 48,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Travel Pillow",
-      "isChecked": false
-},
-    {
-      "itemID": 49,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Eye Mask",
-      "isChecked": false
-},
-    {
-      "itemID": 50,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Ear Plugs",
-      "isChecked": false
-},
-    {
-      "itemID": 51,
-      "itemCategory": "Hand Luggage",
-      "itemValue": "Playing Cards",
-      "isChecked": false
-},
-    {
-      "itemID": 52,
-      "itemCategory": "Children",
-      "itemValue": "Toys",
-      "isChecked": false
-},
-    {
-      "itemID": 53,
-      "itemCategory": "Children",
-      "itemValue": "Games",
-      "isChecked": false
-},
-    {
-      "itemID": 54,
-      "itemCategory": "Children",
-      "itemValue": "Books",
-      "isChecked": false
-},
-    {
-      "itemID": 55,
-      "itemCategory": "Children",
-      "itemValue": "Nappies",
-      "isChecked": false
-},
-    {
-      "itemID": 56,
-      "itemCategory": "Children",
-      "itemValue": "Change Of Clothes",
-      "isChecked": false
-},
-    {
-      "itemID": 57,
-      "itemCategory": "Children",
-      "itemValue": "Dummy/Pacifier",
-      "isChecked": false
-},
-    {
-      "itemID": 58,
-      "itemCategory": "Children",
-      "itemValue": "Baby Food",
-      "isChecked": false
-},
-    {
-      "itemID": 59,
-      "itemCategory": "Medical Supplies",
-      "itemValue": "Prescription Medication ",
-      "isChecked": false
-},
-    {
-      "itemID": 60,
-      "itemCategory": "Medical Supplies",
-      "itemValue": "Paracetamol",
-      "isChecked": false
-},
-    {
-      "itemID": 61,
-      "itemCategory": "Medical Supplies",
-      "itemValue": "Travel First Aid Kit ",
-      "isChecked": false
-},
-    {
-      "itemID": 62,
-      "itemCategory": "Medical Supplies",
-      "itemValue": "Sunscreen",
-      "isChecked": false
-},
-    {
-      "itemID": 63,
-      "itemCategory": "Medical Supplies",
-      "itemValue": "Bug Spray",
-      "isChecked": false
-},
-    {
-      "itemID": 64,
-      "itemCategory": "Medical Supplies",
-      "itemValue": "All Lenses",
-      "isChecked": false
-},
-    {
-      "itemID": 65,
-      "itemCategory": "Medical Supplies",
-      "itemValue": "Travel Sickness Pills",
-      "isChecked": false
-},
-    {
-      "itemID": 66,
-      "itemCategory": "Toiletries",
-      "itemValue": "Toothbrush",
-      "isChecked": false
-},
-    {
-      "itemID": 67,
-      "itemCategory": "Toiletries",
-      "itemValue": "Hairbrush",
-      "isChecked": false
-},
-    {
-      "itemID": 68,
-      "itemCategory": "Toiletries",
-      "itemValue": "Moisturiser",
-      "isChecked": false
-},
-    {
-      "itemID": 69,
-      "itemCategory": "Toiletries",
-      "itemValue": "Sunscreen",
-      "isChecked": false
-},
-    {
-      "itemID": 70,
-      "itemCategory": "Toiletries",
-      "itemValue": "Deodorant",
-      "isChecked": false
-},
-    {
-      "itemID": 71,
-      "itemCategory": "Toiletries",
-      "itemValue": "Mouthwash",
-      "isChecked": false
-},
-    {
-      "itemID": 72,
-      "itemCategory": "Toiletries",
-      "itemValue": "Shower Gel",
-      "isChecked": false
-},
-    {
-      "itemID": 73,
-      "itemCategory": "Toiletries",
-      "itemValue": "Tweezers",
-      "isChecked": false
-},
-    {
-      "itemID": 74,
-      "itemCategory": "Toiletries",
-      "itemValue": "Ear Buds/Plugs",
-      "isChecked": false
-},
-    {
-      "itemID": 75,
-      "itemCategory": "Toiletries",
-      "itemValue": "Make Up/Remover",
-      "isChecked": false
-},
-    {
-      "itemID": 76,
-      "itemCategory": "Toiletries",
-      "itemValue": "Tampons/Sanitary Pads",
-      "isChecked": false
-},
-    {
-      "itemID": 77,
-      "itemCategory": "Toiletries",
-      "itemValue": "Razor",
-      "isChecked": false
-},
-    {
-      "itemID": 78,
-      "itemCategory": "Toiletries",
-      "itemValue": "Eye Drops",
-      "isChecked": false
-},
-    {
-      "itemID": 79,
-      "itemCategory": "Toiletries",
-      "itemValue": "Wet Wipes",
-      "isChecked": false
-},
-    {
-      "itemID": 80,
-      "itemCategory": "Toiletries",
-      "itemValue": "Toothpaste",
-      "isChecked": false
-},
-    {
-      "itemID": 81,
-      "itemCategory": "Toiletries",
-      "itemValue": "Hair Products",
-      "isChecked": false
-},
-    {
-      "itemID": 82,
-      "itemCategory": "Toiletries",
-      "itemValue": "Nail Scissors/Clippers",
-      "isChecked": false
-},
-    {
-      "itemID": 83,
-      "itemCategory": "Toiletries",
-      "itemValue": "Shampoo",
-      "isChecked": false
-},
-    {
-      "itemID": 84,
-      "itemCategory": "Toiletries",
-      "itemValue": "Conditioner",
-      "isChecked": false
-},
-    {
-      "itemID": 85,
-      "itemCategory": "Toiletries",
-      "itemValue": "Dental Floss",
-      "isChecked": false
-},
-    {
-      "itemID": 86,
-      "itemCategory": "Toiletries",
-      "itemValue": "Shaving Cream",
-      "isChecked": false
-},
-    {
-      "itemID": 87,
-      "itemCategory": "Toiletries",
-      "itemValue": "Hand Cream",
-      "isChecked": false
-},
-    {
-      "itemID": 88,
-      "itemCategory": "Toiletries",
-      "itemValue": "Contraception",
-      "isChecked": false
-},
-    {
-      "itemID": 89,
-      "itemCategory": "Toiletries",
-      "itemValue": "Bug Repellent",
-      "isChecked": false
-},
-    {
-      "itemID": 90,
-      "itemCategory": "Toiletries",
-      "itemValue": "Aftersun",
-      "isChecked": false
-},
-    {
-      "itemID": 91,
-      "itemCategory": "Toiletries",
-      "itemValue": "Lip Balm",
-      "isChecked": false
-},
-    {
-      "itemID": 92,
-      "itemCategory": "Toiletries",
-      "itemValue": "Sealable Bags/Containers",
-      "isChecked": false
-},
-    {
-      "itemID": 93,
-      "itemCategory": "Toiletries",
-      "itemValue": "Bag For Dirty Laundry",
-      "isChecked": false
-},
-    {
-      "itemID": 94,
-      "itemCategory": "Beach",
-      "itemValue": "Swimwear X 2",
-      "isChecked": false
-},
-    {
-      "itemID": 95,
-      "itemCategory": "Beach",
-      "itemValue": "Lightweight Cover Up",
-      "isChecked": false
-},
-    {
-      "itemID": 96,
-      "itemCategory": "Beach",
-      "itemValue": "Flip Flops Or Sandals",
-      "isChecked": false
-},
-    {
-      "itemID": 97,
-      "itemCategory": "Beach",
-      "itemValue": "Lightweight Bag",
-      "isChecked": false
-},
-    {
-      "itemID": 98,
-      "itemCategory": "Beach",
-      "itemValue": "Sunhat",
-      "isChecked": false
-},
-    {
-      "itemID": 99,
-      "itemCategory": "Beach",
-      "itemValue": "Plastic Bags ",
-      "isChecked": false
-},
-    {
-      "itemID": 100,
-      "itemCategory": "Sports",
-      "itemValue": "Footwear - Specialist Shoes And Boots Or Socks",
-      "isChecked": false
-},
-    {
-      "itemID": 101,
-      "itemCategory": "Sports",
-      "itemValue": "Sports Bag",
-      "isChecked": false
-},
-    {
-      "itemID": 102,
-      "itemCategory": "Sports",
-      "itemValue": "Sports Bra",
-      "isChecked": false
-},
-    {
-      "itemID": 103,
-      "itemCategory": "Sports",
-      "itemValue": "Layered Sports Clothes",
-      "isChecked": false
-},
-    {
-      "itemID": 104,
-      "itemCategory": "Business",
-      "itemValue": "Business Cards",
-      "isChecked": false
-},
-    {
-      "itemID": 105,
-      "itemCategory": "Business",
-      "itemValue": "Pass Or Id",
-      "isChecked": false
-},
-    {
-      "itemID": 106,
-      "itemCategory": "Business",
-      "itemValue": "Workout Clothes - Inc Swimwear And Goggles",
-      "isChecked": false
-},
-    {
-      "itemID": 107,
-      "itemCategory": "Business",
-      "itemValue": "Lint Roller",
-      "isChecked": false
-},
-    {
-      "itemID": 108,
-      "itemCategory": "Business",
-      "itemValue": "Suit Holder",
-      "isChecked": false
-},
-    {
-      "itemID": 109,
-      "itemCategory": "Off The Beaten Path",
-      "itemValue": "Toilet Paper",
-      "isChecked": false
-},
-    {
-      "itemID": 110,
-      "itemCategory": "Off The Beaten Path",
-      "itemValue": "Laundry Detergent",
-      "isChecked": false
-},
-    {
-      "itemID": 111,
-      "itemCategory": "Off The Beaten Path",
-      "itemValue": "Advanced First Aid Kit",
-      "isChecked": false
-},
-    {
-      "itemID": 112,
-      "itemCategory": "Off The Beaten Path",
-      "itemValue": "Water Bottle",
-      "isChecked": false
-},
-    {
-      "itemID": 113,
-      "itemCategory": "Off The Beaten Path",
-      "itemValue": "Wet Wipes And Santizer",
-      "isChecked": false
-},
-    {
-      "itemID": 114,
-      "itemCategory": "Off The Beaten Path",
-      "itemValue": "Travel Alarm",
-      "isChecked": false
-},
-    {
-      "itemID": 115,
-      "itemCategory": "Clothes",
-      "itemValue": "Underwear - One Per Day",
-      "isChecked": false
-},
-    {
-      "itemID": 116,
-      "itemCategory": "Clothes",
-      "itemValue": "Socks - One Pair Per Day",
-      "isChecked": false
-},
-    {
-      "itemID": 117,
-      "itemCategory": "Clothes",
-      "itemValue": "Tops/T Shirts/Shirts/Dress - One Per Day",
-      "isChecked": false
-},
-    {
-      "itemID": 118,
-      "itemCategory": "Clothes",
-      "itemValue": "Trousers - 2-3 Per 10 Days. One Pair If Hot Weather Destination.",
-      "isChecked": false
-},
-    {
-      "itemID": 119,
-      "itemCategory": "Clothes",
-      "itemValue": "Coat",
-      "isChecked": false
-},
-    {
-      "itemID": 120,
-      "itemCategory": "Clothes",
-      "itemValue": "Shorts And Skirts - 1 Per 10 Days. 2-3 If Hot Weather Destination.",
-      "isChecked": false
-},
-    {
-      "itemID": 121,
-      "itemCategory": "Clothes",
-      "itemValue": "Pullover/Cardigan/Jumper/Jersey - One Per Five Days",
-      "isChecked": false
-},
-    {
-      "itemID": 122,
-      "itemCategory": "Clothes",
-      "itemValue": "Shoes - One Snazzy Pair, One Casual Pair.",
-      "isChecked": false
-},
-    {
-      "itemID": 123,
-      "itemCategory": "Clothes",
-      "itemValue": "Sleepwear",
-      "isChecked": false
-},
-    {
-      "itemID": 124,
-      "itemCategory": "Optional Clothes",
-      "itemValue": "Blazer/Jacket/ Suit",
-      "isChecked": false
-},
-    {
-      "itemID": 125,
-      "itemCategory": "Optional Clothes",
-      "itemValue": "Special Sports Clothes Or Beach Wear",
-      "isChecked": false
-},
-    {
-      "itemID": 126,
-      "itemCategory": "Optional Clothes",
-      "itemValue": "Ties",
-      "isChecked": false
-},
-    {
-      "itemID": 127,
-      "itemCategory": "Optional Clothes",
-      "itemValue": "Jewellery",
-      "isChecked": false
-},
-    {
-      "itemID": 128,
-      "itemCategory": "Optional Clothes",
-      "itemValue": "Hats",
-      "isChecked": false
-},
-    {
-      "itemID": 129,
-      "itemCategory": "Optional Clothes",
-      "itemValue": "Hair Accessories",
-      "isChecked": false
-},
-    {
-      "itemID": 130,
-      "itemCategory": "Optional Clothes",
-      "itemValue": "Scarf",
-      "isChecked": false
-},
-    {
-      "itemID": 131,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Swiss Army Knife",
-      "isChecked": false
-},
-    {
-      "itemID": 132,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Head Torch",
-      "isChecked": false
-},
-    {
-      "itemID": 133,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Food",
-      "isChecked": false
-},
-    {
-      "itemID": 134,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Tissues And Toilet Paper",
-      "isChecked": false
-},
-    {
-      "itemID": 135,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Packing Cubes",
-      "isChecked": false
-},
-    {
-      "itemID": 136,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Travel Pillow",
-      "isChecked": false
-},
-    {
-      "itemID": 137,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Book Or Magazine",
-      "isChecked": false
-},
-    {
-      "itemID": 138,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Safari Vest",
-      "isChecked": false
-},
-    {
-      "itemID": 139,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Eye Mask And Ear Plugs",
-      "isChecked": false
-},
-    {
-      "itemID": 140,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Scarf",
-      "isChecked": false
-},
-    {
-      "itemID": 141,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "A Spare Bag ",
-      "isChecked": false
-},
-    {
-      "itemID": 142,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Glasses Case",
-      "isChecked": false
-},
-    {
-      "itemID": 143,
-      "itemCategory": "Travel Hacks",
-      "itemValue": "Travel Umbrella",
-      "isChecked": false
-}
-  ]
+  {
+    "itemID": 1,
+    "itemCategory": "Documents",
+    "itemValue": "Passport",
+    "isChecked": false
+  },
+  {
+    "itemID": 2,
+    "itemCategory": "Documents",
+    "itemValue": "Drivers Licence",
+    "isChecked": false
+  },
+  {
+    "itemID": 3,
+    "itemCategory": "Documents",
+    "itemValue": "Visas",
+    "isChecked": false
+  },
+  {
+    "itemID": 4,
+    "itemCategory": "Documents",
+    "itemValue": "Vaccination Details including COVID",
+    "isChecked": false
+  },
+  {
+    "itemID": 5,
+    "itemCategory": "Documents",
+    "itemValue": "Airport Parking Details",
+    "isChecked": false
+  },
+  {
+    "itemID": 6,
+    "itemCategory": "Documents",
+    "itemValue": "Airport Transfer Details",
+    "isChecked": false
+  },
+  {
+    "itemID": 7,
+    "itemCategory": "Documents",
+    "itemValue": "Flight Details",
+    "isChecked": false
+  },
+  {
+    "itemID": 8,
+    "itemCategory": "Documents",
+    "itemValue": "Frequent Flyer Numbers",
+    "isChecked": false
+  },
+  {
+    "itemID": 9,
+    "itemCategory": "Documents",
+    "itemValue": "ATOL Certificate",
+    "isChecked": false
+  },
+  {
+    "itemID": 10,
+    "itemCategory": "Documents",
+    "itemValue": "Travel Insurance",
+    "isChecked": false
+  },
+  {
+    "itemID": 11,
+    "itemCategory": "Documents",
+    "itemValue": "Car Hire Details",
+    "isChecked": false
+  },
+  {
+    "itemID": 12,
+    "itemCategory": "Documents",
+    "itemValue": "Hotel Details",
+    "isChecked": false
+  },
+  {
+    "itemID": 13,
+    "itemCategory": "Documents",
+    "itemValue": "Attraction Vouchers",
+    "isChecked": false
+  },
+  {
+    "itemID": 14,
+    "itemCategory": "Documents",
+    "itemValue": "Medication Paperwork",
+    "isChecked": false
+  },
+  {
+    "itemID": 15,
+    "itemCategory": "Documents",
+    "itemValue": "Travel Money",
+    "isChecked": false
+  },
+  {
+    "itemID": 16,
+    "itemCategory": "Documents",
+    "itemValue": "Loyalty Cards",
+    "isChecked": false
+  },
+  {
+    "itemID": 17,
+    "itemCategory": "Documents",
+    "itemValue": "Paperwork For A Child Travelling With You Who Does Not Share The Same Family Name",
+    "isChecked": false
+  },
+  {
+    "itemID": 18,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Mobile Phone & Charger",
+    "isChecked": false
+  },
+  {
+    "itemID": 19,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Wallet/Purse",
+    "isChecked": false
+  },
+  {
+    "itemID": 20,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Local Currency",
+    "isChecked": false
+  },
+  {
+    "itemID": 21,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Keys",
+    "isChecked": false
+  },
+  {
+    "itemID": 22,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Glasses/Contact Lenses",
+    "isChecked": false
+  },
+  {
+    "itemID": 23,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Hand Sanitiser",
+    "isChecked": false
+  },
+  {
+    "itemID": 24,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Food/Snacks",
+    "isChecked": false
+  },
+  {
+    "itemID": 25,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Water/Drink Bottle",
+    "isChecked": false
+  },
+  {
+    "itemID": 26,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Tissues",
+    "isChecked": false
+  },
+  {
+    "itemID": 27,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Pen",
+    "isChecked": false
+  },
+  {
+    "itemID": 28,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Books/Magazines",
+    "isChecked": false
+  },
+  {
+    "itemID": 29,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Eye Mask",
+    "isChecked": false
+  },
+  {
+    "itemID": 30,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Ear Plugs/Buds",
+    "isChecked": false
+  },
+  {
+    "itemID": 31,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Hearing Aid",
+    "isChecked": false
+  },
+  {
+    "itemID": 32,
+    "itemCategory": "Hand Luggage",
+    "itemValue": "Playing Cards",
+    "isChecked": false
+  },
+  {
+    "itemID": 33,
+    "itemCategory": "Gadgets",
+    "itemValue": "Travel Adapter",
+    "isChecked": false
+  },
+  {
+    "itemID": 34,
+    "itemCategory": "Gadgets",
+    "itemValue": "Multi-Plug Port",
+    "isChecked": false
+  },
+  {
+    "itemID": 35,
+    "itemCategory": "Gadgets",
+    "itemValue": "Headphones/Earphones",
+    "isChecked": false
+  },
+  {
+    "itemID": 36,
+    "itemCategory": "Gadgets",
+    "itemValue": "Laptop/Tablet",
+    "isChecked": false
+  },
+  {
+    "itemID": 37,
+    "itemCategory": "Gadgets",
+    "itemValue": "Charging Cables",
+    "isChecked": false
+  },
+  {
+    "itemID": 38,
+    "itemCategory": "Gadgets",
+    "itemValue": "Games Consoles",
+    "isChecked": false
+  },
+  {
+    "itemID": 39,
+    "itemCategory": "Gadgets",
+    "itemValue": "Torch/Headlamp",
+    "isChecked": false
+  },
+  {
+    "itemID": 40,
+    "itemCategory": "Gadgets",
+    "itemValue": "Power Bank",
+    "isChecked": false
+  },
+  {
+    "itemID": 41,
+    "itemCategory": "Gadgets",
+    "itemValue": "Batteries",
+    "isChecked": false
+  },
+  {
+    "itemID": 42,
+    "itemCategory": "Gadgets",
+    "itemValue": "Camera",
+    "isChecked": false
+  },
+  {
+    "itemID": 43,
+    "itemCategory": "Clothes",
+    "itemValue": "Underwear - One Per Day",
+    "isChecked": false
+  },
+  {
+    "itemID": 44,
+    "itemCategory": "Clothes",
+    "itemValue": "Socks - One Pair Per Day",
+    "isChecked": false
+  },
+  {
+    "itemID": 45,
+    "itemCategory": "Clother",
+    "itemValue": "Eveningwear/Pyjamas",
+    "isChecked": false
+  },
+  {
+    "itemID": 46,
+    "itemCategory": "Clothes",
+    "itemValue": "Tops/T Shirts/Shirts/Dress - One Per Day",
+    "isChecked": false
+  },
+  {
+    "itemID": 47,
+    "itemCategory": "Clothes",
+    "itemValue": "Trousers - 2-3 Per 10 Days. One Pair If Hot Weather Destination.",
+    "isChecked": false
+  },
+  {
+    "itemID": 48,
+    "itemCategory": "Clothes",
+    "itemValue": "Shorts And Skirts - 1 Per 10 Days. 2-3 If Hot Weather Destination.",
+    "isChecked": false
+  },
+  {
+    "itemID": 49,
+    "itemCategory": "Clothes",
+    "itemValue": "Pullover/Cardigan/Jumper/Jersey - One Per Five Days",
+    "isChecked": false
+  },
+  {
+    "itemID": 50,
+    "itemCategory": "Clothes",
+    "itemValue": "Blazer/Jacket/ Suit",
+    "isChecked": false
+  },
+  {
+    "itemID": 51,
+    "itemCategory": "Clothes",
+    "itemValue": "Ties",
+    "isChecked": false
+  },
+  {
+    "itemID": 52,
+    "itemCategory": "Clothes",
+    "itemValue": "Jewellery",
+    "isChecked": false
+  },
+  {
+    "itemID": 53,
+    "itemCategory": "Clothes",
+    "itemValue": "Hair Accessories",
+    "isChecked": false
+  },
+  {
+    "itemID": 54,
+    "itemCategory": "Clothes",
+    "itemValue": "Coat",
+    "isChecked": false
+  },
+  {
+    "itemID": 55,
+    "itemCategory": "Clothes",
+    "itemValue": "Rain Coat",
+    "isChecked": false
+  },
+  {
+    "itemID": 56,
+    "itemCategory": "Clothes",
+    "itemValue": "Footwear - Formal/Casual/Boots",
+    "isChecked": false
+  },
+  {
+    "itemID": 57,
+    "itemCategory": "Clothes",
+    "itemValue": "Hats",
+    "isChecked": false
+  },
+  {
+    "itemID": 58,
+    "itemCategory": "Clothes",
+    "itemValue": "Scarf",
+    "isChecked": false
+  },
+  {
+    "itemID": 59,
+    "itemCategory": "Toiletries",
+    "itemValue": "Toothbrush",
+    "isChecked": false
+  },
+  {
+    "itemID": 60,
+    "itemCategory": "Toiletries",
+    "itemValue": "Toothpaste",
+    "isChecked": false
+  },
+  {
+    "itemID": 61,
+    "itemCategory": "Toiletries",
+    "itemValue": "Dental Floss/Picks",
+    "isChecked": false
+  },
+  {
+    "itemID": 62,
+    "itemCategory": "Toiletries",
+    "itemValue": "Mouthwash",
+    "isChecked": false
+  },
+  {
+    "itemID": 63,
+    "itemCategory": "Toiletries",
+    "itemValue": "Hairbrush",
+    "isChecked": false
+  },
+  {
+    "itemID": 64,
+    "itemCategory": "Toiletries",
+    "itemValue": "Deodorant",
+    "isChecked": false
+  },
+  {
+    "itemID": 65,
+    "itemCategory": "Toiletries",
+    "itemValue": "Shower Gel",
+    "isChecked": false
+  },
+  {
+    "itemID": 66,
+    "itemCategory": "Toiletries",
+    "itemValue": "Shampoo",
+    "isChecked": false
+  },
+  {
+    "itemID": 67,
+    "itemCategory": "Toiletries",
+    "itemValue": "Conditioner",
+    "isChecked": false
+  },
+  {
+    "itemID": 68,
+    "itemCategory": "Toiletries",
+    "itemValue": "Sponge/Cloth",
+    "isChecked": false
+  },
+  {
+    "itemID": 69,
+    "itemCategory": "Toiletries",
+    "itemValue": "Razor",
+    "isChecked": false
+  },
+  {
+    "itemID": 70,
+    "itemCategory": "Toiletries",
+    "itemValue": "Shaving Cream",
+    "isChecked": false
+  },
+  {
+    "itemID": 71,
+    "itemCategory": "Toiletries",
+    "itemValue": "Face Wash",
+    "isChecked": false
+  },
+  {
+    "itemID": 72,
+    "itemCategory": "Toiletries",
+    "itemValue": "Moisturiser",
+    "isChecked": false
+  },
+  {
+    "itemID": 73,
+    "itemCategory": "Toiletries",
+    "itemValue": "Face Cream",
+    "isChecked": false
+  },
+  {
+    "itemID": 74,
+    "itemCategory": "Toiletries",
+    "itemValue": "Make Up/Remover",
+    "isChecked": false
+  },
+  {
+    "itemID": 75,
+    "itemCategory": "Toiletries",
+    "itemValue": "Lip Balm",
+    "isChecked": false
+  },
+  {
+    "itemID": 76,
+    "itemCategory": "Toiletries",
+    "itemValue": "Perfume/Aftershave",
+    "isChecked": false
+  },
+  {
+    "itemID": 77,
+    "itemCategory": "Toiletries",
+    "itemValue": "Eye Drops",
+    "isChecked": false
+  },
+  {
+    "itemID": 78,
+    "itemCategory": "Toiletries",
+    "itemValue": "Hand Cream",
+    "isChecked": false
+  },
+  {
+    "itemID": 79,
+    "itemCategory": "Toiletries",
+    "itemValue": "Hair Products",
+    "isChecked": false
+  },
+  {
+    "itemID": 80,
+    "itemCategory": "Toiletries",
+    "itemValue": "Hair Spray",
+    "isChecked": false
+  },
+  {
+    "itemID": 81,
+    "itemCategory": "Toiletries",
+    "itemValue": "Hairdryer",
+    "isChecked": false
+  },
+  {
+    "itemID": 82,
+    "itemCategory": "Toiletries",
+    "itemValue": "Hair Straighteners",
+    "isChecked": false
+  },
+  {
+    "itemID": 83,
+    "itemCategory": "Toiletries",
+    "itemValue": "Sunscreen",
+    "isChecked": false
+  },
+  {
+    "itemID": 84,
+    "itemCategory": "Toiletries",
+    "itemValue": "Aftersun",
+    "isChecked": false
+  },
+  {
+    "itemID": 85,
+    "itemCategory": "Toiletries",
+    "itemValue": "Wet Wipes",
+    "isChecked": false
+  },
+  {
+    "itemID": 86,
+    "itemCategory": "Toiletries",
+    "itemValue": "Tampons/Sanitary Pads",
+    "isChecked": false
+  },
+  {
+    "itemID": 87,
+    "itemCategory": "Toiletries",
+    "itemValue": "Nail Scissors/Clippers",
+    "isChecked": false
+  },
+  {
+    "itemID": 88,
+    "itemCategory": "Toiletries",
+    "itemValue": "Tweezers",
+    "isChecked": false
+  },
+  {
+    "itemID": 89,
+    "itemCategory": "Toiletries",
+    "itemValue": "Toilet Paper",
+    "isChecked": false
+  },
+  {
+    "itemID": 90,
+    "itemCategory": "Toiletries",
+    "itemValue": "Sealable Bags/Containers",
+    "isChecked": false
+  },
+  {
+    "itemID": 91,
+    "itemCategory": "Toiletries",
+    "itemValue": "Bag For Dirty Laundry",
+    "isChecked": false
+  },
+  {
+    "itemID": 92,
+    "itemCategory": "Medical Supplies",
+    "itemValue": "Prescription Medication",
+    "isChecked": false
+  },
+  {
+    "itemID": 93,
+    "itemCategory": "Medical Supplies",
+    "itemValue": "Painkillers",
+    "isChecked": false
+  },
+  {
+    "itemID": 94,
+    "itemCategory": "Medical Supplies",
+    "itemValue": "Travel Sickness Pills",
+    "isChecked": false
+  },
+  {
+    "itemID": 95,
+    "itemCategory": "Medical Supplies",
+    "itemValue": "Supplements",
+    "isChecked": false
+  },
+  {
+    "itemID": 96,
+    "itemCategory": "Medical Supplies",
+    "itemValue": "Bug Repellent",
+    "isChecked": false
+  },
+  {
+    "itemID": 97,
+    "itemCategory": "Medical Supplies",
+    "itemValue": "Contraception",
+    "isChecked": false
+  },
+  {
+    "itemID": 98,
+    "itemCategory": "Medical Supplies",
+    "itemValue": "First Aid Kit",
+    "isChecked": false
+  },
+  {
+    "itemID": 99,
+    "itemCategory": "Beach",
+    "itemValue": "Swimwear",
+    "isChecked": false
+  },
+  {
+    "itemID": 100,
+    "itemCategory": "Beach",
+    "itemValue": "Flip-Flops/Sandals",
+    "isChecked": false
+  },
+  {
+    "itemID": 101,
+    "itemCategory": "Beach",
+    "itemValue": "Sunhat",
+    "isChecked": false
+  },
+  {
+    "itemID": 102,
+    "itemCategory": "Beach",
+    "itemValue": "Sunglasses",
+    "isChecked": false
+  },
+  {
+    "itemID": 103,
+    "itemCategory": "Beach",
+    "itemValue": "Beach Towels",
+    "isChecked": false
+  },
+  {
+    "itemID": 104,
+    "itemCategory": "Beach",
+    "itemValue": "Lightweight Cover-Up",
+    "isChecked": false
+  },
+  {
+    "itemID": 105,
+    "itemCategory": "Beach",
+    "itemValue": "Plastic Bags",
+    "isChecked": false
+  },
+  {
+    "itemID": 106,
+    "itemCategory": "Beach",
+    "itemValue": "Lightweight Bag",
+    "isChecked": false
+  },
+  {
+    "itemID": 107,
+    "itemCategory": "Sports",
+    "itemValue": "Workout Clothes - Inc Swimwear And Goggles",
+    "isChecked": false
+  },
+  {
+    "itemID": 108,
+    "itemCategory": "Sports",
+    "itemValue": "Sports Clothes",
+    "isChecked": false
+  },
+  {
+    "itemID": 109,
+    "itemCategory": "Sports",
+    "itemValue": "Sports Bra",
+    "isChecked": false
+  },
+  {
+    "itemID": 110,
+    "itemCategory": "Sports",
+    "itemValue": "Footwear - Specialist Shoes/Boots/Socks",
+    "isChecked": false
+  },
+  {
+    "itemID": 111,
+    "itemCategory": "Sports",
+    "itemValue": "Sports Bag",
+    "isChecked": false
+  },
+  {
+    "itemID": 112,
+    "itemCategory": "Business",
+    "itemValue": "Business Pass/ID",
+    "isChecked": false
+  },
+  {
+    "itemID": 113,
+    "itemCategory": "Business",
+    "itemValue": "Business Cards",
+    "isChecked": false
+  },
+  {
+    "itemID": 114,
+    "itemCategory": "Business",
+    "itemValue": "Suit Holder",
+    "isChecked": false
+  },
+  {
+    "itemID": 115,
+    "itemCategory": "Other",
+    "itemValue": "Travel Pillow",
+    "isChecked": false
+  },
+  {
+    "itemID": 116,
+    "itemCategory": "Other",
+    "itemValue": "Travel Umbrella",
+    "isChecked": false
+  },
+  {
+    "itemID": 117,
+    "itemCategory": "Other",
+    "itemValue": "Lint Roller",
+    "isChecked": false
+  },
+  {
+    "itemID": 118,
+    "itemCategory": "Other",
+    "itemValue": "Glasses Case",
+    "isChecked": false
+  },
+  {
+    "itemID": 119,
+    "itemCategory": "Other",
+    "itemValue": "Spare Bag",
+    "isChecked": false
+  },
+  {
+    "itemID": 120,
+    "itemCategory": "Other",
+    "itemValue": "Laundry Detergent",
+    "isChecked": false
+  },
+  {
+    "itemID": 121,
+    "itemCategory": "Other",
+    "itemValue": "Packing Cubes",
+    "isChecked": false
+  },
+  {
+    "itemID": 122,
+    "itemCategory": "Other",
+    "itemValue": "Travel Alarm",
+    "isChecked": false
+  },
+  {
+    "itemID": 123,
+    "itemCategory": "Other",
+    "itemValue": "Swiss Army Knife",
+    "isChecked": false
+  },
+  {
+    "itemID": 124,
+    "itemCategory": "Children",
+    "itemValue": "Toys",
+    "isChecked": false
+  },
+  {
+    "itemID": 125,
+    "itemCategory": "Children",
+    "itemValue": "Games",
+    "isChecked": false
+  },
+  {
+    "itemID": 126,
+    "itemCategory": "Children",
+    "itemValue": "Books",
+    "isChecked": false
+  },
+  {
+    "itemID": 127,
+    "itemCategory": "Children",
+    "itemValue": "Nappies",
+    "isChecked": false
+  },
+  {
+    "itemID": 128,
+    "itemCategory": "Children",
+    "itemValue": "Change Of Clothes",
+    "isChecked": false
+  },
+  {
+    "itemID": 129,
+    "itemCategory": "Children",
+    "itemValue": "Dummy/Pacifier",
+    "isChecked": false
+  },
+  {
+    "itemID": 130,
+    "itemCategory": "Children",
+    "itemValue": "Baby Food",
+    "isChecked": false
+  },
+  {
+    "itemID": 131,
+    "itemCategory": "Pet",
+    "itemValue": "Dry Food",
+    "isChecked": false
+  },
+  {
+    "itemID": 132,
+    "itemCategory": "Pet",
+    "itemValue": "Supplements",
+    "isChecked": false
+  },
+  {
+    "itemID": 133,
+    "itemCategory": "Pet",
+    "itemValue": "Dental Chews",
+    "isChecked": false
+  },
+  {
+    "itemID": 134,
+    "itemCategory": "Pet",
+    "itemValue": "Treats",
+    "isChecked": false
+  },
+  {
+    "itemID": 135,
+    "itemCategory": "Pet",
+    "itemValue": "Bone/Chew Stick",
+    "isChecked": false
+  },
+  {
+    "itemID": 136,
+    "itemCategory": "Pet",
+    "itemValue": "Food Bowl",
+    "isChecked": false
+  },
+  {
+    "itemID": 137,
+    "itemCategory": "Pet",
+    "itemValue": "Water Bowl",
+    "isChecked": false
+  },
+  {
+    "itemID": 138,
+    "itemCategory": "Pet",
+    "itemValue": "Pet Toys",
+    "isChecked": false
+  },
+  {
+    "itemID": 139,
+    "itemCategory": "Pet",
+    "itemValue": "Bedding",
+    "isChecked": false
+  },
+  {
+    "itemID": 140,
+    "itemCategory": "Pet",
+    "itemValue": "Walking Lead",
+    "isChecked": false
+  },
+  {
+    "itemID": 141,
+    "itemCategory": "Pet",
+    "itemValue": "Harness/Collar",
+    "isChecked": false
+  },
+  {
+    "itemID": 142,
+    "itemCategory": "Pet",
+    "itemValue": "Poop Bags",
+    "isChecked": false
+  },
+  {
+    "itemID": 143,
+    "itemCategory": "Pet",
+    "itemValue": "Brush",
+    "isChecked": false
+  },
+  {
+    "itemID": 144,
+    "itemCategory": "Pet",
+    "itemValue": "Shampoo",
+    "isChecked": false
+  },
+  {
+    "itemID": 145,
+    "itemCategory": "Pet",
+    "itemValue": "Towels",
+    "isChecked": false
+  },
+  {
+    "itemID": 146,
+    "itemCategory": "Pet",
+    "itemValue": "Car Seat",
+    "isChecked": false
+  },
+  {
+    "itemID": 147,
+    "itemCategory": "Pet",
+    "itemValue": "Car Leash",
+    "isChecked": false
+  },
+  {
+    "itemID": 148,
+    "itemCategory": "Pet",
+    "itemValue": "Rain Coat",
+    "isChecked": false
+  },
+  {
+    "itemID": 149,
+    "itemCategory": "Pet",
+    "itemValue": "Cooling Coat",
+    "isChecked": false
+  }
+]
